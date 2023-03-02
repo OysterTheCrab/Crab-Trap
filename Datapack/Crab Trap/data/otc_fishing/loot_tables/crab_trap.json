@@ -1,0 +1,40 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cod",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 6
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{overworld:'crab', CustomModelData:410005,isFish:'true'}"
+            },
+            {
+              "function": "minecraft:set_name",
+              "entity": "this",
+              "name": [
+                "Crab ",
+                {
+                  "text": "s",
+                  "color": "dark_green",
+                  "font": "rating",
+                  "italic": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

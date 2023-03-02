@@ -1,0 +1,9 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+            "layer0": "item/cod_spawn_egg"
+},
+"overrides": [
+    {"predicate": {"custom_model_data": 800000}, "model": "fish:item/crab_trap/main"}
+]
+}

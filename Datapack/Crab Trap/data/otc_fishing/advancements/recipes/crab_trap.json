@@ -1,0 +1,13 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "otc_fishing:crab_trap"
+        }
+      }
+    },
+    "rewards": {
+      "function": "otc_fishing:crab_trap/craft"
+    }
+  }

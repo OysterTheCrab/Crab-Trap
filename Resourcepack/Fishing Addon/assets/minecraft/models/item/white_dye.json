@@ -1,0 +1,84 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "fish:item/crab_trap/animation/group2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "fish:item/crab_trap/animation/group3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "fish:item/crab_trap/animation/group4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "fish:item/crab_trap/animation/group5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "fish:item/crab_trap/animation/group"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "fish:item/crab_trap/animation/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "fish:item/crab_trap/animation/crab_export2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "fish:item/crab_trap/animation/crab_export3"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "fish:item/crab_trap/animation/crab_export4"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "fish:item/crab_trap/animation/crab_export5"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "fish:item/crab_trap/animation/crab_export"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"81db88cb-38d1-6b2d-d041-5a30b7c60981": {
+				"name": "crab_trap",
+				"usedIDs": [
+					[1, 11]
+				]
+			}
+		}
+	}
+}

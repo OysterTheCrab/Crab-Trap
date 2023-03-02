@@ -1,0 +1,148 @@
+{
+    "providers":[
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/black.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/blue.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/brown.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/cyan.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/gray.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/green.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/light_blue.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/light_gray.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/lime.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/magenta.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/orange.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/pink.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/purple.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/red.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/white.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "fish:font/tacklebox/yellow.png",
+            "ascent": 13,
+            "height": 256,
+            "chars": [
+                "\uE015"
+            ]
+        }
+    ]
+}

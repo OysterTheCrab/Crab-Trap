@@ -1,0 +1,21 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cod"
+    },
+
+    "gui_light": "front",
+
+    "display": {
+        "head": {
+            "rotation": [ 0, 90, -60 ],
+            "translation": [ -7, -4, -7],
+            "scale":[ 0.8, 0.8, 0.8]
+        }
+    },
+    "overrides": [
+        
+        {"predicate": {"custom_model_data": 410005}, "model": "fish:item/fish/overworld/crab"}
+
+    ]
+}
