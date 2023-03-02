@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "fish:item/fish/overworld/crab-export",
+		"particle": "crab-export"
+	}
+}

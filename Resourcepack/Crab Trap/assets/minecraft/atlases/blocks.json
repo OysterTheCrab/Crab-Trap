@@ -1,10 +1,6 @@
 {
     "sources": [
         {
-            "type": "single",
-            "resource": "entity/chest/normal"
-        },
-        {
             "type": "directory",
             "source": "fish",
             "prefix": "fish:"
