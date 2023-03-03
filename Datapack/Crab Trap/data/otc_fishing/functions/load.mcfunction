@@ -1,17 +1,27 @@
-
+# Stores current daytime and rng time for the crab trap
 scoreboard objectives add OtcFishingTimer dummy
+
+# Checks when the player places the crab trap
 scoreboard objectives add OtcFishingUsedCrabTrap minecraft.used:cod_spawn_egg
+
+# Specical id that links all the parts of the crab trap
 scoreboard objectives add OtcFishingCrabTrapId dummy
-scoreboard objectives add OtcFishingCast dummy
+
+# Scoreboard for the animation
 scoreboard objectives add OtcFishingAnimation dummy
+
+# Scoreboard that tracks when a player sleeps as well as other criterion in relation
 scoreboard objectives add OtcFishingSleep dummy
 
-
+# Sets up the animation
 execute unless score $temp OtcFishingAnimation matches 1 run function crab_trap:install
 
+# Starts the tick and storage loops
 function otc_fishing:tick
 function otc_fishing:loop
 
+
+# Everything below is for rng
 
 # Create scoreboard objective and initialise LCG
 scoreboard objectives add random dummy

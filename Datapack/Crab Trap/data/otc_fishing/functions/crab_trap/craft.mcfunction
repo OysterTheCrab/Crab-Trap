@@ -1,3 +1,5 @@
+# Crafting
+
 recipe take @s otc_fishing:crab_trap
 advancement revoke @s only otc_fishing:recipes/crab_trap
 clear @s knowledge_book
