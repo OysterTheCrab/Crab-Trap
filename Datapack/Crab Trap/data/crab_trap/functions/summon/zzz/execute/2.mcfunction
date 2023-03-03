@@ -8,3 +8,4 @@ scoreboard players set @s aj.crab_trap.crab.move.loopMode 2
 scoreboard players set @s aj.crab_trap.crab.empty.loopMode 0
 scoreboard players set @s aj.frame 0
 scoreboard players set @s aj.crab_trap.animating 0
+scoreboard players operation @s OtcFishingCrabTrapId = $current OtcFishingCrabTrapId
