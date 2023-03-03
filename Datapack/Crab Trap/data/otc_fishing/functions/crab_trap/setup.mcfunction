@@ -4,3 +4,4 @@ summon interaction ~ ~ ~ {width:1f,height:1f,response:1b,Tags:["otc_fishing_crab
 summon marker ~ ~ ~ {Silent:1b,Invulnerable:1b,Tags:["otc_fishing_crab_trap_track"]}
 tp @s ~ ~-1000 ~
 execute as @e[tag=!otc_fishing_id,tag=otc_fishing_crab_trap_track] run function otc_fishing:crab_trap/id
+playsound entity.fishing_bobber.splash master @a ~ ~ ~ .08 1.5
