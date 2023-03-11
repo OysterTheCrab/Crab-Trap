@@ -1,6 +1,3 @@
-{
-    "replace": false,
-    "values": [
-        "otc_fishing:load"
-    ]
-}
+{"replace":false,"values":[
+    "otc_crab_trap:load"
+]}

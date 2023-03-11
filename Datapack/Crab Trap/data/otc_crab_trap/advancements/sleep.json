@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:slept_in_bed"
+      }
+    },
+    "rewards": {
+      "function": "otc_crab_trap:brain/checks/sleep"
+    }
+  }
+  
